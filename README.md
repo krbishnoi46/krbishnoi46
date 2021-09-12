@@ -5,11 +5,11 @@
 </p>
 
 
-![Github Stats](https://readmestats.vercel.app/api?username=lntechnical2&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true)
+![Github Stats](https://readmestats.vercel.app/api?username=krbishnoi46&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true)
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{lntechnical2}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{krbishnoi46}/count.svg)
 
 ## YouTube 
 <a href="https://youtube.com/c/LNtechnical"> <img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
